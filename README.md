@@ -3,7 +3,7 @@ Blazing Unicorn
 
 Unicorn recipe for [blazing](http://github.com/effkay/blazing)
 
-If you run your applications with [unicorn](http://unicorn.bogomips.org/), this lets you
+If you run your applications with [unicorn](http://unicorn.bogomips.org/) this lets you
 do a rolling restart after a deployment.
 
 
